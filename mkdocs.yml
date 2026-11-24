@@ -1,0 +1,10 @@
+site_name: Law Firm Google Ads Negative Keyword Starter List
+site_description: A starter negative keyword list for law firm Google Ads campaigns, grouped by theme, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-negative-keywords.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Negative keywords: index.md
+markdown_extensions:
+  - tables
